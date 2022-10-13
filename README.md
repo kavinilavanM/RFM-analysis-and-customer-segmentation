@@ -9,33 +9,33 @@ In marketing, a corporation might segment shoppers or buyers according to the st
 
 Demographic Segmentation that includes:
 
-gender
-age
-occupation
-marital status
-income
+gender,
+age,
+occupation,
+marital status,
+income,
 Geographic Segmentation that includes:
 
-country
-state
-city of residence
-Specific towns or counties
+country,
+state,
+city of residence,
+Specific towns or counties,
 Technographic Segmentation that includes:
 
-technologies
-software
+technologies,
+software,
 mobile devices
 Psychographic Segmentation that includes:
 
-personal attitudes
-values
-interests
-personality traits
+personal attitudes,
+values,
+interests,
+personality traits,
 Behavioral Segmentation that includes:
 
-actions or inactions
-spending/consumption habits
-feature use
-session frequency
-browsing history
-average order value
+actions or inactions,
+spending/consumption habits,
+feature use,
+session frequency,
+browsing history,
+average order value,
